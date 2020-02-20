@@ -12,7 +12,6 @@ public class BFS
 			while (! queue.isEmpty()){
 				Vertex actual = queue.remove();
 				System.out.println(actual.toString());
-
 				for (Vertex vertex: actual.getNeighbours())
 				{
 					if (!vertex.isVisited()){
