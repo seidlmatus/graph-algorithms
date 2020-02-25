@@ -1,4 +1,4 @@
-package com.company.depthfirstsearch.breadthfirstsearch;
+package com.company.depthfirstsearch;
 
 import java.util.ArrayList;
 import java.util.List;
