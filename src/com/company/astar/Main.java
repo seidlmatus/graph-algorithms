@@ -8,7 +8,7 @@ public class Main
 
 	public static void main (String[] args)
 	{
-		AStarAlghorithm alghorithm = new AStarAlghorithm();
+		AStarAlgorithm alghorithm = new AStarAlgorithm();
 		alghorithm.search();
 		alghorithm.showPath();
 
